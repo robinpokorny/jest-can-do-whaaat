@@ -1,0 +1,17 @@
+{
+  "name": "jest-can-do-whaaat",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^21.0.1"
+  },
+  "dependencies": {
+    "immutable": "3.8.2",
+    "snapshot-diff": "0.2.2"
+  }
+}

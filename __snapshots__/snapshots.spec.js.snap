@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`method diff 1`] = `
+Object {
+  "characters": 2,
+  "title": "Audience",
+}
+`;
+
+exports[`method diff 2`] = `
+Object {
+  "characters": 3,
+  "title": "Audience",
+}
+`;
+
+exports[`method diff 3`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+  Object {
+-   \\"characters\\": 2,
++   \\"characters\\": 3,
+    \\"title\\": \\"Audience\\",
+  }"
+`;
+
+exports[`method immutable 1`] = `
+Immutable.Map {
+  "a": 1,
+  "b": 2,
+}
+`;
+
+exports[`method immutable 2`] = `
+Immutable.List [
+  2,
+  5,
+  11,
+]
+`;
+
+exports[`method mock function 1`] = `
+Array [
+  Array [
+    "Vanek",
+  ],
+  Array [
+    "Ferdinand",
+    "Vanek",
+  ],
+]
+`;
+
+exports[`method play 1`] = `
+Array [
+  Play <Audience>: Object {
+      "scenes": 1,
+    },
+]
+`;
+
+exports[`method works 1`] = `1936`;
+
+exports[`new name 1`] = `
+Object {
+  "bool": true,
+  "func": [Function],
+  "map": Map {
+    "position1" => "workman",
+    "position2" => "stockkeeper",
+  },
+  "null": null,
+  "number": 1975,
+  "promise": Promise {},
+  "set": Set {
+    "think",
+    "write",
+    "snitch",
+  },
+  "string": "Hello, Vanek",
+  "symbol": Symbol(brewery),
+  "undefined": undefined,
+  Symbol(brewmaster): "Next beer!",
+}
+`;
