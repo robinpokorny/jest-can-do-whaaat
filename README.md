@@ -1,5 +1,7 @@
 # Jest can do whaaat?
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/robinpokorny/jest-can-do-whaaat.svg)](https://greenkeeper.io/)
+
 [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
 [![license](https://img.shields.io/npm/l/transform-props-with.svg?style=flat-square)](#license)
 [![git3moji](https://img.shields.io/badge/git3moji-%E2%9A%A1%EF%B8%8F%F0%9F%90%9B%F0%9F%93%BA%F0%9F%91%AE%F0%9F%94%A4-fffad8.svg?style=flat-square)](https://robinpokorny.github.io/git3moji/)
